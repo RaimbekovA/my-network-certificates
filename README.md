@@ -1,6 +1,10 @@
 ## Cisco
+### Cisco Certified Network Professional Enterprise
+![Cisco Certified Network Professional Enterprise certificate_page-0001](https://github.com/RaimbekovA/my-network-certificates/assets/63358961/367de1a5-36ff-4060-922e-dee4f5ca180d)
+
 ### Implementing Cisco Enterprise Network Core Technologies (350-401 ENCOR v1.1)
-Add certificate
+![Cisco Certified Specialist - Enterprise Core certificate_page-0001](https://github.com/RaimbekovA/my-network-certificates/assets/63358961/44dfd343-3164-4a33-aaa0-d2e73dd38caa)
+
 
 ### Designing Cisco Enterprise Networks (300-420 ENSLD v1.1)
 ![Cisco Certified Specialist - Enterprise Design](https://github.com/RaimbekovA/my-network-certificates/assets/63358961/4f9c19cf-fe13-4e47-b918-3cd27c00a4b1)
